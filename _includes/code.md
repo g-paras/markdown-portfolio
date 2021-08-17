@@ -1,0 +1,4 @@
+```py
+while True:
+  code()
+```
